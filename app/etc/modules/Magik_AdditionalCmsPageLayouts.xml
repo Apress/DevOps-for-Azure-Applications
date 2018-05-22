@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+ <modules>
+  <Magik_AdditionalCmsPageLayouts>
+   <codePool>local</codePool>
+   <active>true</active>
+  </Magik_AdditionalCmsPageLayouts>
+ </modules>
+</config>

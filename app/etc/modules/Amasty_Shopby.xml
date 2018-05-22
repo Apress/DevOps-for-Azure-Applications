@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Amasty_Shopby>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Amasty_Shopby>
+    </modules>
+</config>

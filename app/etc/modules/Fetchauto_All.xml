@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<config>
+    <modules>
+        <Fetchauto_CMSTemplates>
+            <codePool>local</codePool>
+            <active>true</active>
+        </Fetchauto_CMSTemplates>
+        <Fetchauto_Manufacturers>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Fetchauto_Manufacturers>
+        <Fetchauto_Recommend>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Fetchauto_Recommend>
+        <Fetchauto_Brand>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Fetchauto_Brand>
+    </modules>
+</config>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <modules>
+        <TM_CheckoutFields>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Sales />
+                <Mage_Checkout />
+                <TM_FireCheckout />
+            </depends>
+        </TM_CheckoutFields>
+    </modules>
+</config>

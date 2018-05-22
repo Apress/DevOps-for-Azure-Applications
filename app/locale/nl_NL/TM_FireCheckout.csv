@@ -1,0 +1,88 @@
+"Standard","Standaard"
+"Minimal","Minimaal"
+"Optional","Optioneel"
+"Required","Vereist"
+"Hidden","Verborgen"
+The fire checkout is disabled.,Firecheckout is uitgeschakeld.
+Fire Checkout Section,FireCheckout Sectie
+Fire Checkout,FireCheckout
+"Default Shipping Method","Standaard Verzendmethode"
+"Default Payment Method","Standaard Betaalmethode"
+"Default Country","Standaard Land"
+"GeoIP","GeoIP"
+Enable Country Detection,Land detectie ingeschakeld
+"<a href='http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz' title='Download GeoIP database'>Download</a> and unzip file under the 'MAGETO_ROOT/lib/MaxMind/GeoIP/data' folder if you don't have it","<a href='http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz' title='Download GeoIP database'>Download</a> en unzip bestand onder de 'MAGETO_ROOT/lib/MaxMind/GeoIP/data' map als u die niet heeft"
+Enable City Detection,Steden detect ingeschakeld
+"<a href='http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz' title='Download GeoCity database'>Download</a> and unzip file under the 'MAGETO_ROOT/lib/MaxMind/GeoIP/data' folder if you don't have it","<a href='http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz' title='Download GeoCity database'>Download</a> en unzip bestand onder de 'MAGETO_ROOT/lib/MaxMind/GeoIP/data' map als u die niet heeft"
+"Show Shipping Address Form","Toon Verzendadres Formulier"
+"Show Subscribe to Newsletter Checkbox","Toon Schrijf in op Nieuwsbrief Checkbox"
+"Address Form Fields","Adresformulier Velden"
+"Before changing some of the fields, be sure that your payment/shipping provider does not require them","Voordat u enige velden gaat aanpassen, wees er zeker van dat deze niet vereist zijn door uw aanbieder van betalingen/verzenden"
+"Output Type","Output Type"
+"Create account for later use","Maak een account aan voor later gebruik"
+"Checkout Review","Evaluatie Betaling"
+"Already registered? Login into your account","Bent u al geregistreerd? Log dan in op uw account"
+"Show Comment Field","Toon Veld voor Opmerkingen"
+"Guest checkout is allowed","Gast betaling is toegestaan"
+"Registration is required","Registratie is vereist"
+User is registered during checkout without prompting a password,Gebruiker wordt geregistreerd tijdens betaling zonder een wachtwoord te gebruiken
+"Registration mode","Registratie modus"
+"Show Discount Coupon Field","Toon Kortingsbon Veld"
+Firecheckout on Mobile Devices,Firecheckout op Mobiele Apparaten
+"Enable Region Detection","Sta Regiodetectie Toe"
+"GeoIp filename","Geolp bestandsnaam"
+"GeoIPRegion filename","GeoIPRegion bestandsnaam"
+"GeoCity filename","GeoCity bestandsnaam"
+"<a href='http://www.maxmind.com/app/region' title='Purchase Region database'>Purchase</a>, download and unzip file under the 'MAGETO_ROOT/lib/MaxMind/GeoIP/data' folder if you don't have it","<a href='http://www.maxmind.com/app/region' title='Purchase Region database'>Purchase</a>, download en unzip bestand onder de 'MAGETO_ROOT/lib/MaxMind/GeoIP/data' map als u die niet heeft"
+"GeoIP is enabled but not included. geoip_open function doesn't found","GeoIP in toegestaan maar niet inbegrepen. geoip_open functie niet gevonden"
+"Country detection is enabled but %s not found","Landendetectie is toegestaan maar %s niet gevonden"
+"Region detection is enabled but %s not found","Regiodetectie is ingesteld maar %s niet gevonden"
+"City detection is enabled but %s not found","Stedendetectie is ingesteld maar %s niet gevonden"
+Redirect to firecheckout after adding an item to the shopping cart,Ga naar firecheckout na het toevoegen van een artikel aan de winkelwagen
+"Ajax","Ajax"
+Reload order totals on region change,Herlaad totalen van bestelling bij veranderen regio
+Reload order totals on payment method change,Herlaad totalen van bestelling bij veranderen van de betaalmethode
+Reload shipping methods on country change,Herlaad de verzendmethoden bij veranderen van het land
+Reload payment methods on country change,Herlaad de betaalmethoden bij veranderen land
+"Register customer during Paypal Express checkout if prompted","Registreer klant tijdens Paypal express betaling"
+"Ship to the same address","Verzend naar hetzelfde adres"
+"Validate taxvat number","Valideer BTW nummer"
+"Use online VIES validation","Gebruik online VIES validatie"
+"Show Giftcard Field","Toon Cadeaukaart Veld"
+"Works with Magento Enterprise/Pro Versions Only","Werkt Alleen met Magento Enterprise/Pro Versies"
+"Address Form Fields Sort Order","Adresformulier Veld Volgorde"
+"To place the fields in one row, set their order values in continuous chain: 1,2 or 12,13 or 20,21</br>To place fields in separate rows break the order values chain: 1,3 or 12,18 or 20,30","Om de velden in een rij te plaatsen, zet ze in oplopende volgorde: 1,2 of 12,13 of 20,21</br>Om velden in verschillende rijen te plaatsen, verbreek de orde: 1,3 of 12,18 of 20,30"
+"Set 'Yes' if some of your methods are using allowed countries option","Stel 'Ja' in als uw methoden toegestane landen opties gebruiken"
+Reload payment methods on order total change,Herlaad de betaalmethoden als het totaal van de bestelling is veranderd
+"Set 'Yes' if some of your methods are using min/max order total option","Stel 'Ja' in als uw methoden min/max bestelling totaal optie gebruiken"
+Reload shipping methods on postal code change,Herlaad de verzendmethoden bij veranderen van de postcode
+Reload shipping methods on region change,HerLaad de verzendmethoden bij veranderen van de regio
+Reload shipping methods on order total change,Herlaad verzendmethoden als het totaal van de bestelling is veranderd
+"Set 'Yes' if you have an active discount for some payment method","Stel 'Ja' in als je een actieve korting hebt voor een betaalmethode"
+Reload order totals on shipping method change,Laad totaal bestelling opnieuw bij veranderen van verzendmethode
+Reload order totals on country change,Laad totaal bestelling opnieuw bij veranderen van land
+"Set 'Yes' if you have an active discount or tax rate for some country","Stel 'Ja' in als je een actieve korting hebt of belastingbedrag voor een land"
+Reload order totals on postal code change,Laad totaal bestelling opnieuw bij veranderen van de postcode
+"Set 'Yes' if you have an active discount or tax rate for some zipcode","Stel 'Ja' in als je een actieve korting hebt of een belastingbedrag voor een postcode"
+"Set 'Yes' if you have an active discount or tax rate for some region","Stel 'Ja' in als je een actieve korting hebt of een belastingbedrag voor een regio"
+"Invalid VAT number","Ongeldig BTW nummer"
+"The VAT validation service unavailable. Please re-submit your request later.","De BTW validatie dienst niet beschikbaar. Bevestig uw aanvraag a.u.b. later."
+"The provided CountryCode is invalid or the VAT number is empty","De geleverde LandenCode is ongeldig of het BTW nummer is leeg"
+"The VAT validation service cannot process your request. Try again later.","De BTW validatie dienst kan op verzoek niet uitvoeren. Probeer het later opnieuw."
+"Unknown VAT validation service message. Try again later.","Onbekende BTW validatie dienst bericht. Probeer het later opnieuw."
+"The provided CountryCode is invalid for the VAT number","De geleverde LandenCode is ongeldig voor het BTW nummer"
+"Delivery Date and Time","Leveringsdatum en -Tijd"
+"Delivery Date","Leveringsdatum"
+"Delivery Time","Leveringstijd"
+"Display Mode","Toon Modus"
+"Use Calendar","Gebruik Kalender"
+"Exclude the Weekend Days","Sluit Dagen in Weekenden uit"
+"Dates to Exclude","Uitgesloten Datums"
+"Use Time Range","Gebruik Tijdspanne"
+"Time Ranges","Tijdspannen"
+"We cannot deliver the package at the selected date. Please select another date for the delivery","Wij kunnen het pakker niet op de geselecteerde datum leveren. Selecteer a.u.b. een andere datum voor de levering"
+"We cannot deliver the package at the selected time. Please select another time for the delivery","Wij kunnen het pakket niet op de geselecteerde tijd leveren. Selecteer a.u.b. een andere tijd voor de levering"
+"Show for All Shipping Methods","Toon voor Alle Verzendmethoden"
+"Show for Specific Shipping Methods","Toon voor Specifieke Verzendmethoden"
+"MM/DD/YYYY","MM-DD-JJJJ"
+"There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.","Er is al een klant geregistreerd die dit e-mailadres gebruikt. Log a.u.b. in met die e-mailadres of gebruik een ander e-mailadres om uw account te registreren."
